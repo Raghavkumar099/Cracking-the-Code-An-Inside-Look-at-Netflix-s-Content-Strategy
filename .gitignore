@@ -1,8 +1,0 @@
-Datasets/
-git/
-.ipynb_checkpoints/
-python!git add .gitignore
-!git add "netflix_titles.csv"
-!git add *.ipynb
-!git commit -m "Add clean project files"
-!git push origin main
